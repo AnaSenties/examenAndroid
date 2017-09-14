@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GodsterTest</string>
+    <string name="facebook_app_id">346807325742173</string>
+    <string name="fb_login_protocol_scheme">fb346807325742173</string>
+    <string name="restartButton">Reiniciar</string>
+
+</resources>
